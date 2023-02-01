@@ -1,14 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,there!👋;I'm+Manasi+Suyal...;This+is+my+profile!&center=true&size=25&font=Press+Start+2P&width=700">
 </h1>
-💫 About Me: <br>
-🎓I'm a CS undergraduate at Graphic Era (Deemed to be) University, Dehradun. <br>
+💫 About Me: <br><br>
+🎓I'm a CS undergraduate at Graphic Era (Deemed to be) University, Dehradun <br>
 🌱 I’m currently learning Frontend Web Development<br>
 🔭 I’m currently working on something cool<br>
 🤝 I’m looking for some help with Java<br>
-🌱 I’m currently learning Frontend Web Development<br>
 ⚡ Fun fact: Yes, I'm funny<br>
-💃If you want something done, ask a meme.<br>
+💃If you want something done, ask a meme<br>
 
 
 ## 🌐 SOCIALS:
